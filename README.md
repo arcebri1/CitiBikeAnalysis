@@ -2,6 +2,10 @@
 
 - - -
 
+I used jupyter notebook to clean up the [Citi Bike Data](https://www.citibikenyc.com/system-data) between 2018-2020 to create a [Tableau Story](https://public.tableau.com/profile/lorena2196#!/vizhome/CitiBikeAnalysis_16114028351290/Dashboard1) that would help visualize the impact of covid on the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program. 
+
+- - -
+
 ### Before You Begin
 
 [My Tableau](https://public.tableau.com/profile/lorena2196#!/vizhome/CitiBikeAnalysis_16114028351290/Dashboard1).
